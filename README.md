@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🌟 Hey there! I'm Nikolas 👋  
 
-<!--
-**nikolas-tuz/nikolas-tuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | 4+ Years in Software Development | Freelancer**  
+I love building **scalable, production-ready applications** from scratch—**from design to deployment**!  
+With a strong focus on **performance, UX/UI, and modern web technologies**, I turn ideas into reality.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+
+**🌿 Version Control:** Git, GitHub  
+**🎨 Design & Motion:** UX/UI, Figma, Motion Design (AE)  
+**⚛️ Frontend:** TypeScript, React, Next.js  
+**🛠 Backend:** NestJS, Node.js  
+**🗄 Databases:** MongoDB, SQL, TypeORMs, ODMs(Mongoose) 
+
+---
+
+## 🎸 About Me  
+
+🎹 Love playing the **piano & guitar**  
+📖 Avid reader of **classical literature**  
+💡 Passionate about **tech, design, and innovation**  
+
+---
+
+## 📬 Get in Touch  
+
+📧 **Email:** [tuznikolas@gmail.com](mailto:tuznikolas@gmail.com)  
+💬 **Telegram:** [@nikolas_tuz](https://t.me/nikolas_tuz)
+
+---
+
+✨ _"Code is poetry, and every project tells a story."_ ✨  
